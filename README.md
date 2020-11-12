@@ -2,7 +2,8 @@ This project builds a [Google Sheets Script](https://developers.google.com/apps-
 
 ## Requirements:
 1. A Companies House developer account & API Key: https://developer.company-information.service.gov.uk/api/docs/index/gettingStarted/quickStart.html
-2. A Google Sheet
+2. A Google Sheet (or you can copy mine below)
+3. List of Company IDs from Companies House 
 
 ## Setup:
 1. Follow the Companies House API documentation to create an account and create an application to retrieve and [API Key](https://developer.company-information.service.gov.uk/developer/applications) 
